@@ -11,6 +11,14 @@ python Profiler.py path/to/image/of/app path/to/image/of/pfp path/to/output/imag
 if no output path is provided, the script defaults to $HOME/Pictures/
 
 ### Examples:
-if I had this firefox icon (courtesy of the [BeautyLine](https://www.gnome-look.org/p/1425426/) icon set) and this profile picture 
+if I had this firefox icon (courtesy of the [BeautyLine](https://www.gnome-look.org/p/1425426/) icon set): 
 
-![firefox](/assets/firefox.png) + ![pfp](/assets/firefox.png) --> ![firefox+pfp](/assets/firefox+pfp.png)
+![firefox](/assets/firefox.png)
+
+and this profile picture:
+
+![pfp](/assets/PFP (School).png)
+
+Then running ```python Profiler.py firefox.png pfp.png``` would give me an output of:
+
+![firefox+pfp](/assets/firefox+pfp.png)
