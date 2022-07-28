@@ -17,7 +17,7 @@ if I had this firefox icon (courtesy of the [BeautyLine](https://www.gnome-look.
 
 and this profile picture:
 
-![pfp](/assets/PFP (School).png)
+![pfp](/assets/pfp.png)
 
 Then running ```python Profiler.py firefox.png pfp.png``` would give me an output of:
 
