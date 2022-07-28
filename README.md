@@ -22,3 +22,5 @@ and this profile picture:
 Then running ```python Profiler.py firefox.png pfp.png``` would give an output of:
 
 ![firefox+pfp](/assets/firefox+pfp.png)
+
+as you can see the program automatically scales both images, makes the pfp rounded, and then combines them. Enjoy!
