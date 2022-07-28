@@ -19,6 +19,6 @@ and this profile picture:
 
 ![pfp](/assets/pfp.png)
 
-Then running ```python Profiler.py firefox.png pfp.png``` would give me an output of:
+Then running ```python Profiler.py firefox.png pfp.png``` would give an output of:
 
 ![firefox+pfp](/assets/firefox+pfp.png)
